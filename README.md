@@ -41,7 +41,7 @@ The objective is to identify employee attrition patterns and provide insights th
 
 The project includes an interactive Power BI dashboard showing employee attrition and workforce insights.
 
-![HR Analytics Dashboard](PowerBI/HR_Analytics_Dashboard.png)
+![HR Analytics Dashboard](PowerBI/HR_Attrition_Dataset.png)
 
 ## 📁 Project Structure
 
