@@ -47,16 +47,15 @@ The project includes an interactive Power BI dashboard showing employee attritio
 ```text
 HR-Analytics-Employee-Attrition/
 │
-├── Python/
+|-- Python/
 │   ├── HR_Attrition_Analysis.ipynb
-│   └── README.md
 │
-├── PowerBI/
+|-- PowerBI/
 │   ├── HR_Analytics_Dashboard.pbix
-│   ├── HR_Analytics_Dashboard.png
-│   └── README.md
 │
-├── Data/
+|-- Dataset/
 │   └── HR_Attrition_Dataset.csv
-│
+|
+|--HR_Dashboard.png
+|
 └── README.md
